@@ -38,7 +38,7 @@ MAX TIME STEPS = 1000  # max time steps per episode
 
 
 ## Plot of Rewards
-![](Plot of Rewards.png)
+![](Plot%20of%20Rewards.png)
 
 ## Result
 
