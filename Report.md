@@ -5,11 +5,13 @@
 Actor :
 
 Dimensions are : State Space	---	256	---	128	---	Action Space
+
 Activation function :   		Relu	---	Relu	---	Tanh
 
 Critic :
 
 Dimensions are : State Space + Action Space	---	256		---	128		---	1
+
 Activation function :   				Leaky_Relu	---	Leaky_Relu	---	Tanh
 
 ## Hyperparameters
