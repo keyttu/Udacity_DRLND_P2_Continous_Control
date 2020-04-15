@@ -46,6 +46,6 @@ MAX TIME STEPS = 1000  # max time steps per episode
 
 ## Future Work
 
-1. Implementing the latest updates proposed in Twin Delayed DDPG.
+1. Implementing the latest updates for DDPG proposed in Twin Delayed DDPG.
 
 2. Exploring PPO, D4PG algorithms
